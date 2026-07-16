@@ -1,4 +1,4 @@
-# Comparative Analysis of Machine Learning Models for Near-Earth Object Hazard Classification
+# Comparative ML for NEO Hazard Classification
 
 A comparative study evaluating 12 machine learning models (deep learning + classical ML + ensembles) for binary classification of near-Earth objects (NEOs) as hazardous or non-hazardous. The project compares PyTorch deep learning architectures (MLP and DNN) against scikit-learn classical methods on imbalanced orbital data (338K records, 6 raw features (10 engineered), 6.84:1 class ratio), with threshold tuning and ensemble strategies to address deployment requirements.
 
