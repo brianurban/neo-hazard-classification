@@ -93,30 +93,30 @@ A comparative study evaluating 12 machine learning models (deep learning + class
 
 ## Models Compared
 
-| Model | Type | Parameters | Library |
-|---|---|---|---|
-| MLP (10→32→16→1, ReLU, Focal Loss) | Deep Learning | 44,193 | PyTorch |
-| NEO_DNN (10→128→64→32→1, ReLU, BatchNorm) | Deep Learning | 353,099 | PyTorch |
-| Logistic Regression | Classical | ~11 | scikit-learn |
-| Decision Tree (unconstrained) | Classical | ~N/A (tree depth/leaves) | scikit-learn |
-| Random Forest (100 trees) | Ensemble | ~N/A (100 trees) | scikit-learn |
-| ExtraTrees (100 trees) | Ensemble | ~N/A | scikit-learn |
-| Gradient Boosting | Ensemble | ~N/A | scikit-learn |
-| HistGradientBoosting | Ensemble | ~N/A | scikit-learn |
-| k-Nearest Neighbors | Classical | Instance-based (no training params) | scikit-learn |
-| Naive Bayes (Gaussian) | Classical | ~20 | scikit-learn |
-| Linear SVM | Classical | ~11 | scikit-learn |
-| Stacking Ensemble (Meta-learner on top 6 models) | Ensemble | ~N/A | scikit-learn |
-| Weighted Ensemble (MLP×0.25 + RF×0.75) | Ensemble | ~N/A | Custom |
+| Model | Type | Library |
+|---|---|---|
+| MLP (10 → 32 → 16 → 1, ReLU, Focal Loss) | Deep Learning | PyTorch |
+| NEO_DNN (10 → 128 → 64 → 32 → 1, ReLU, BatchNorm) | Deep Learning | PyTorch |
+| Logistic Regression | Classical | scikit-learn |
+| Decision Tree (unconstrained) | Classical | scikit-learn |
+| Random Forest (100 trees) | Ensemble | scikit-learn |
+| ExtraTrees (100 trees) | Ensemble | scikit-learn |
+| Gradient Boosting | Ensemble | scikit-learn |
+| HistGradientBoosting | Ensemble | scikit-learn |
+| k-Nearest Neighbors | Classical | scikit-learn |
+| Naive Bayes (Gaussian) | Classical | scikit-learn |
+| Linear SVM | Classical | scikit-learn |
+| Stacking Ensemble (Meta-learner on top 6 models) | Ensemble | scikit-learn |
+| Weighted Ensemble (MLP×0.25 + RF×0.75) | Ensemble | Custom |
 
 ---
 
 ## Dataset
 
 338,199 records of NEO observations with 10 engineered features and binary hazard labels from NASA JPL database.
-
+ 
 <br>
-
+ 
 **Citation:**
 
 Kaggle. *Near-Earth Objects (1910-2024)*, 2024. https://www.kaggle.com/datasets/ivansher/nasa-nearest-earth-objects-1910-2024.
