@@ -153,11 +153,11 @@ Kaggle. *Near-Earth Objects (1910-2024)*, 2024. https://www.kaggle.com/datasets/
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776ab?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4dabcf?logo=numpy&logoColor=fff)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
-![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
-![Scikit-learn](https://custom-icon-badges.demolab.com/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
+![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71d291?logo=matplotlib&logoColor=fff)
+![Scikit-learn](https://custom-icon-badges.demolab.com/badge/-scikit--learn-f89a36?logo=scikit-learn&logoColor=white)
 ![Imbalanced-learn](https://custom-icon-badges.demolab.com/badge/imbalanced--learn-319ace?logo=imbalanced-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 
