@@ -158,7 +158,7 @@ Kaggle. *Near-Earth Objects (1910-2024)*, 2024. https://www.kaggle.com/datasets/
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)
 ![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)
 ![Scikit-learn](https://custom-icon-badges.demolab.com/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)
-![Imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-F7931E?logoColor=white)
+![Imbalanced-learn](https://custom-icon-badges.demolab.com/badge/imbalanced--learn-F7931E?logo=imbalanced-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)
 
 ---
