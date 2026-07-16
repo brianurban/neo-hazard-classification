@@ -113,7 +113,7 @@ A comparative study evaluating 12 machine learning models (deep learning + class
 
 ## Dataset
 
-338,199 records of NEO observations with 9 engineered features and binary hazard labels from NASA JPL database.
+338,199 records of NEO observations with 10 engineered features and binary hazard labels from NASA JPL database.
 
 <br>
 
@@ -211,10 +211,10 @@ MIT License. See [`LICENSE`](LICENSE) file for details.
 
 ```bash
 # Clone the repository
-git clone https://github.com/brianurban/neo-hazard-classification-comparative-analysis.git
+git clone https://github.com/brianurban/neo-hazard-classification.git
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the notebook
-jupyter notebook neo-hazard-classification-comparative-analysis.ipynb
+jupyter notebook neo-hazard-classification.ipynb
