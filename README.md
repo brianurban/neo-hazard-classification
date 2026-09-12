@@ -179,7 +179,7 @@ For planetary defense practitioners: prioritize ensemble methods with calibrated
 
 ### Reproducibility
 
-- **Python version:** 3.13 (tested locally)
+- **Python version:** 3.14.7 (tested locally)
 
 - **Platform:** Windows 11
 
