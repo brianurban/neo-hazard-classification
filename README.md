@@ -209,8 +209,5 @@ MIT License. See [`LICENSE`](LICENSE) file for details.
 # Clone the repository
 git clone https://github.com/brianurban/neo-hazard-classification.git
 
-# Install dependencies
-pip install -r requirements.txt
-
 # Run the notebook
 jupyter notebook neo-hazard-classification.ipynb
